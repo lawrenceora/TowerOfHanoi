@@ -1,4 +1,4 @@
-# TowerofHanoi
+# Tower of Hanoi (4 peg solver).
 Optimal solver for the four-peg Tower of Hanoi problem, with console visualization.
 
 Usage:
